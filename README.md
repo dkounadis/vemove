@@ -17,7 +17,7 @@ D. Kounades-Bastian, L. Girin, X. Alameda-Pineda, S. Gannot and R. Horaud,
 New Paltz, NY, USA, pp. 1-5, doi: 10.1109/WASPAA.2015.7336936.
 ```
 
-### DEMO
+### MATLAB DEMO
 
 In MATLAB run `example.m`
 
